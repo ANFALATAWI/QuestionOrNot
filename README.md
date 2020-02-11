@@ -43,14 +43,14 @@ Jupyter Notebook was run on Google Colaboratory (Colab)
 
 ### Run
 To open the project in Colab:
-- open the Notebook file in GitHub and copy the URL (the URL must end in .ipynb): `Notebook link`
+- open the Notebook file in GitHub and copy the URL (the URL must end in .ipynb): `https://github.com/ANFALATAWI/QuestionOrNot/blob/master/SVM_QuestionOrNot.ipynb`
 -  Open [Colab](https://colab.research.google.com).
 - From File choose Open notebook (shortcut Ctrl+O), then select the GitHub tab
 - Press enter, and select the project from Repository and notebooks
 
 To upload a CSV file from GitHub repository:
 - Click on the dataset in a repository, then click on **View Raw**.
-- Copy the URL to the raw dataset and store it as a string variable
+- Copy the URL of the raw dataset and store it as a string variable
 - load the URL into Pandas read_csv to get the dataframe.
 
 Example:
