@@ -38,6 +38,7 @@ The classification model that was used in this project is Support Vector Machin 
 
 ## Environment
 Python 3.6+ Jupyter Notebook 6.0.1+
+
 Jupyter Notebook was run on Google Colaboratory (Colab)
 
 ### Run
