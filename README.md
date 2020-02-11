@@ -1,4 +1,5 @@
-#QuestionOrNot
+# QuestionOrNot
+
 Text classification is the process that involoves taking a piece of text and categorizing it into predefined categories. In this project, a text classification model is implemented using Support Vector Machine (SVM) in order classify a sentence into either a question or not a question. 
 
 ## Methodology 
