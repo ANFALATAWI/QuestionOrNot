@@ -3,7 +3,7 @@ Text classification is the process that involoves taking a piece of text and cat
 ## Methodology 
 The methodology of this project involved five steps, collecting the data, pre-processed it, extracting its features, then fed it to SVM model. Finally, reporting the evaluation of this model. 
 
-![Methodology of developing question classifier](Add the link of the image)
+![Methodology of developing question classifier](https://github.com/ANFALATAWI/QuestionOrNot.git)
 
 ### 1. Data
 the dataset in this project is constructed from the following resources: 
