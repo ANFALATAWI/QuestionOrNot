@@ -1,7 +1,7 @@
 Text classification is the process that involoves taking a piece of text and categorizing it into predefined categories. In this project, a text classification model is implemented using Support Vector Machine (SVM) in order classify a sentence into either a question or not a question. 
 
 ## Methodology 
-The methodology of this project involved five steps, collecting the data, pre-processed it, extracting its features, then fed it to SVM model. Finally, reporting the evaluation of this model. 
+The methodology of this project involved five steps, collecting the data, pre-processing it, extracting its features, then fed it to SVM model. Finally, reporting the evaluation of this model. 
 
 ![Methodology of developing question classifier](https://github.com/ANFALATAWI/QuestionOrNot.git)
 
